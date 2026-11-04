@@ -12,6 +12,11 @@
 
 ## B. Doing the work
 
+- **Page jobs (registration, VIP, confirmation):** follow `pages/page-sop.md` and run its judge checklist before
+  showing Sean anything. Apply every standard in `pages/` in the client's own brand, so Sean never has to repeat a
+  preference. After the job, add what was tried and what Sean approved or rejected to `pages/fladlien-on-pages.md`
+  and `pages/evolution-<client>.md`.
+
 1. **Find the exact element.** Sean sends a screenshot with a short note ("fix this", "looks weird", "make this
    bigger"). Locate the element in code before changing anything. If two readings are plausible, take the one the
    screenshot shows, and say which you picked.
