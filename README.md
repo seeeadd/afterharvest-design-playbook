@@ -6,8 +6,8 @@ every client, plus a short file per client. It learns: every chat that gets feed
 ## How a chat uses it
 
 1. The client repo's `CLAUDE.md` says "read seeeadd/afterharvest-design-playbook first" (template in `templates/CLAUDE-client.md`).
-2. The chat reads: this README → `SOP.md` → the job's files → `clients/<client>.md` → the newest 40 lines of
-   `feedback-log.md`.
+2. The chat reads: this README → `SOP.md` → the job's files (for any page job: `pages/page-sop.md` first) →
+   `clients/<client>.md` → the newest 40 lines of `feedback-log.md`.
 3. After every round of feedback, the chat logs it in `feedback-log.md` and promotes repeated corrections into the rule
    files (`SOP.md` section D), then commits and pushes here.
 
@@ -24,6 +24,15 @@ every client, plus a short file per client. It learns: every chat that gets feed
 | `study-motion-references.md` | the 12 motion references, studied |
 | `clients/` | one file per client: facts, brand, world, assets, pages |
 | `templates/` | a new client file and the client repo's `CLAUDE.md` |
+| `pages/` | **registration (opt-in) and VIP pages**: start with `pages/page-sop.md` (how a page job runs + the judge checklist) |
+| `pages/registration-page.md` | the registration page section by section: purpose, layout, alignment, gaps, copy pattern, assets, motion |
+| `pages/vip-page.md` | the VIP upsell page, section by section |
+| `pages/ui-kit.md` | header, forms, buttons (and "free" on every button), popup, phone bar, tickets, badges, time zones, line breaks |
+| `pages/layout-type-spacing.md` | alignment, type scale, gaps, balance, laptops, big monitors, devices |
+| `pages/copy.md` | page copy rules, with Ana's final copy as the worked example |
+| `pages/motion-and-speed.md` | page motion and the speed work (still being extended) |
+| `pages/fladlien-on-pages.md` | how Jason Fladlien's advice is used on pages, plus an ideas bank that grows with each job |
+| `pages/evolution-ana.md` | how Ana's pages went from first version to final, and why |
 
 ## Rules at a glance
 
