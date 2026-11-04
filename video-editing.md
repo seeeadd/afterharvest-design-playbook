@@ -129,3 +129,12 @@ Never a stock crossfade or slide.
 2. **Check the contact sheet against the script beats.** Captions match what she says; no empty caption boxes; no
    cropped face; nothing outside the frame; the first frame is good.
 3. **Send it with timings:** "0:00 hook, 0:12 proof...". Say how long the full render will take.
+
+## Before any video: the page's own pieces and Jason Fladlien (Sean, Nov 4)
+
+- Reuse the client's landing page in the video: its painted art and its real UI (the form, the button, the header,
+  the day cards), recorded from the page or copied from its code. Make a new mockup only where the page has nothing.
+  For Ana the map is `tools/film/SITE-ASSETS.md` in her repo.
+- Follow Jason Fladlien's design rules in the video, even more than on slides: study his frames, transcripts and our
+  teardowns in seeeadd/fladdy (`TEARDOWNS.md`, `jason-fladlien-videos/*/`, `rules/slide-method.md`). For Ana the brief
+  is `tools/film/FLADLIEN-FOR-VIDEO.md`. Before rendering, list per shot: the line, the belief, how it is shown, the rule.
