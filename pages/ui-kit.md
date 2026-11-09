@@ -698,3 +698,11 @@ the profile pictures of the free and VIP chat groups.
 - VIP header CTA on phones: Sean has not said (`vip-page.md` section 4).
 - Dead code: `.lt2` and `.dlt` handlers in `index.html` still write "your time"; no element uses them. Delete when
   next touched.
+
+## Page videos (Sean, Nov 9)
+
+- Autoplay silently as a preview; never start with sound on their own, phones included.
+- The first press plays from the top with sound; after that pause and play resume, they never restart.
+- No placeholder photo: a light loading animation until the first frame.
+- Phones show the portrait edit inline in a realistic phone (titanium edge, bezel outside the screen, island), about two
+  thirds of the screen wide, never full screen. The screen is exactly the video's ratio so there are no bars.

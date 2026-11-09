@@ -175,7 +175,10 @@ Before drawing or laying out anything:
   fit. Claude then repairs text, cuts out backgrounds and places them.
   - Sean: "No, I still want Gemini to do it, but something that looks a little better. I want you to make the prompt
     better."
-- **Pinterest is reference only,** never on the live site. No Canva, no image generators for page art, never the
+- **Pinterest pieces on a page only when Sean asks** (Nov 9: "use the Pinterest assets... only the ones that are appropriate"): the cleaned cut-outs in
+  `tools/film/cut/`, a few per page, each on the thing it means (string lights for "you're in", a bow on a pass, tape on a printout). Flag the licence
+  question when they go live. Our own paint-studio pieces (`img/vip/paint/`) are not Pinterest; they are the default.
+- **Pinterest is otherwise reference only,** never on the live site. No Canva, no image generators for page art, never the
   client's face made by AI. Graphics are painted in-house (`../graphics.md` sections 3b and 4).
 - **Self-host special fonts and the animation library,** after checking the font licence (for example SIL Open Font
   License). Ana: the calculator's LCD face `assets/fonts/DSEG7Classic-Bold.woff2` with `DSEG-LICENSE.txt`; GSAP in
