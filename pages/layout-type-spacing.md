@@ -394,3 +394,11 @@ Full rules: [registration-page.md](registration-page.md) §23, [vip-page.md](vip
 - **Open:** the brick wall strip on phones (confirmation page).
 - **Resolved:** "usesans srif here" (Oct 31, 11:56) was the line under the hero H1 (commit c2dcbc7 set it in the
   sans). The standing rule covers it: sans for anything read, including the line under an H1 (section 5.1).
+
+## Simplify means cut (Sean, Nov 8 and Nov 9)
+
+When Sean says "simplify" a section or a page, remove things, don't only add space. Cut first: divider rules
+(eyebrow side lines, lines after numbers, double rules between bands), progress rails that repeat what the band
+already says, dashed frames and dashed list rules, doodles, labels and tags that repeat the heading, table column
+borders. Keep the copy and the painted scenes ("dont remove the graphics", Nov 8). A section keeps its own ground
+colour when a page's accent changes (Nov 9: "keep it pink").
