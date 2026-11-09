@@ -55,6 +55,8 @@ after every video round.
 - Readable on the busiest background it crosses, in every shape. Two-line captions on phones rise so they never run
   off the bottom.
 - **Font:** a sans at 700 to 800 for body captions (Ana: Manrope), the serif for single big words or numbers.
+- **Section titles** are in the client's page headline style, not the caption font (Ana: Instrument Serif, sentence
+  case, key words pink italic), on one band per shape, with a soft cream glow behind when the scene is busy (no box).
 - Key numbers get their own caption ($1.4M; 16,000; 771 likes vs 82).
 - Captions must match what she actually says. When the audio is cleaned, check the words again (section 7).
 
