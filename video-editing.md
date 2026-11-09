@@ -108,6 +108,8 @@ after every video round.
   on her last frame so it can be read.
 - **Transitions are objects in the story:** shutters or a door swinging to the next place, a page turn, the
   character running across as a wipe, a red thread, an iris on her face. Never a stock crossfade or slide.
+- **A door or shutter transition covers everything when it closes:** her video, the pieces and the captions go under
+  it, never on top. Anything on top of a closed door looks cheap (kit: `doorTop`).
 
 ## 7. Sound
 
