@@ -83,8 +83,11 @@ after every video round.
   captions already carry her words, so don't repeat them as stickers. Every 10 to 15 seconds leave a quiet stretch of a
   few seconds: her, the caption and the character resting, nothing arriving. The character hops only on real moments
   (Ana's VIP went from 19 hops to 9), and a sound goes with a piece, so cutting a piece cuts its sound.
-  Breathing room is a picture job first: fewer cuts (merge shots under about 2 s), no big title that repeats the caption
-  on screen at the same moment, no progress strip on every section (only its payoff), real piece over its mockup.
+  Breathing room is a picture job first: fewer layout changes, no progress strip on every section (only its payoff),
+  real piece over its mockup. Keep the section titles (Sean wants them, even when the caption says the same words).
+  "Too many zooms" meant the layout changes themselves: every switch between her full, framed and small resized her
+  over 0.45 s. Ana's VIP fix: one steady layout for her, cut-aways only for proof pieces, clean cuts between them
+  (kit config `cuts: true`), no frame swing (`still: true`), one crop for her face.
 - **Few camera moves:** no punch-ins on words and no slow push-in during shots; her picture holds still. Keep one
   showpiece move (Ana's VIP: the door push in the opening). Pieces land and stay still: no bobbing, wobble or big slams.
 - **Text placement is balanced across the video:** every text piece sits on one band per shape, clear of the caption
