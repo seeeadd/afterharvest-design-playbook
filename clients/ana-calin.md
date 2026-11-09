@@ -1,5 +1,8 @@
 # Client: Ana Calin (How We Grow) · The Exit Plan
 
+> **Fresh chat?** Full context of the Oct 25 to Nov 8 main chat (pages, repos, rules, preferences, the waitlist, open items, mistakes to avoid) is `playbook/HANDOFF-main-chat.md` in `seeeadd/2026-ana-calin`, branch `claude/quirky-franklin-etidvi`; the evidence is `playbook/transcripts/` there.
+
+
 ## Facts (check before using; the newest copy doc wins)
 
 - **Event:** The Exit Plan, a free 3-day live event on Zoom.
