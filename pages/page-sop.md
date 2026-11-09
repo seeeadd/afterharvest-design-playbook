@@ -691,3 +691,11 @@ live. Do the work for them, so nothing feels manual or optional.
 - **Tap for sound is big, in the middle of the video, with the sound moving,** so they know it is a video to press.
 - **The personal step (questions for Ana) shows Ana:** her photo, thinking, with what she will read.
 - **Arrows are drawn by hand** (a curve with a separate head, slight wobble, drawn on), never a stiff vector chevron.
+- **Before publishing, click every survey and form through to the end** on desktop and a phone (Nov 9: a missing
+  animation piece stopped the confirmation survey at question 1 on the live page). Decoration must never block a step:
+  guard every animation so a missing element just skips it.
+- **Text big enough for 30 to 50:** body copy about 17.5 to 19.5px on desktop, 16.5 to 18px on phones (Sean: "too small
+  in general").
+- **The upsell on a free confirmation page:** free seat next to VIP, the missing lines struck through, a real deadline,
+  one clear "yes" button, and one gentle line that the free days are complete on their own. Every line from the offer
+  page's own table.
