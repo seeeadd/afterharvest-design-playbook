@@ -83,6 +83,14 @@ after every video round.
   captions already carry her words, so don't repeat them as stickers. Every 10 to 15 seconds leave a quiet stretch of a
   few seconds: her, the caption and the character resting, nothing arriving. The character hops only on real moments
   (Ana's VIP went from 19 hops to 9), and a sound goes with a piece, so cutting a piece cuts its sound.
+  Breathing room is a picture job first: fewer cuts (merge shots under about 2 s), no big title that repeats the caption
+  on screen at the same moment, no progress strip on every section (only its payoff), real piece over its mockup.
+- **Few camera moves:** no punch-ins on words and no slow push-in during shots; her picture holds still. Keep one
+  showpiece move (Ana's VIP: the door push in the opening). Pieces land and stay still: no bobbing, wobble or big slams.
+- **Text placement is balanced across the video:** every text piece sits on one band per shape, clear of the caption
+  (desktop: the free column, about 300 to 400 px down under a top-left caption; phone: a set top band at y 200 on her
+  full shot, under the caption on framed shots), never pinned to the frame edge, never over her frame, never over the
+  character.
 - No generic AI visuals ("AI changed the order" shows her real material, not a glowing brain).
 
 ## 6. Opening, closing, transitions
