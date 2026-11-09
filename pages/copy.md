@@ -146,6 +146,11 @@ to Dec 8 to 10; see [ui-kit.md](ui-kit.md) section 15 for moving dates).
 - **Do not crowd coloured emphasis text;** fix breaks line by line. Sean: "whats going on the pink text is overcroded" /
   "fix per line".
 
+- **A new copy doc replaces only what it covers.** Keep every text it leaves out: labels, descriptions, proof lines,
+  extra reviews (Sean, Nov 9: "keep those texts... Justin Welsh, solo business, the co-founder of Substack"). Format it
+  to this file (sentence-case headings, "Dec 8 to 10 · 12:00 pm New York"), and bold the line to read first in each
+  block so the page reads in a skim.
+
 ## 5. Emphasis: bold, highlights, the promise line
 
 - **Skimmable pages:** the key sentence in a block gets bold plus a soft marker sweep, and a related sentence nearby can
