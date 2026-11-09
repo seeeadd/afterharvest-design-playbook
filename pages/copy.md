@@ -156,6 +156,9 @@ to Dec 8 to 10; see [ui-kit.md](ui-kit.md) section 15 for moving dates).
   last line), long runs grouped (a list inside a sentence becomes a ticked list, the closing line joins its paragraph),
   new sections given their own designed visual, never a generic placeholder.
 
+- **A logo for a client's tool starts from the client's own mark** (Sean, Nov 10, three passes on Ana's Offer Flow: a generic
+  app-icon tile was "nope"; her own smiling sunflower as the O of "Offer" worked). Her fonts, her handwriting, her colours.
+
 ## 5. Emphasis: bold, highlights, the promise line
 
 - **Skimmable pages:** the key sentence in a block gets bold plus a soft marker sweep, and a related sentence nearby can
