@@ -50,6 +50,9 @@ after every video round.
 - Her words from the first word, including the opening seconds on phones. The first frame is her speaking plus a
   readable caption. No logo intro.
 - One short thought at a time, two lines max, each word inking in as she says it.
+- **Captions sit where the eye already is: on her.** On desktop with her video beside the scene, centre them under her
+  face on the lower part of her video (as on the phone), not in a far corner of the free column; on cut-aways centre them
+  along the bottom.
 - **No paper behind captions.** Straight on the scene: bold ink with a thick cream sticker outline and a soft glow,
   key words larger, soft yellow highlight on key phrases, the client's accent colour on one word at most.
 - Readable on the busiest background it crosses, in every shape. Two-line captions on phones rise so they never run
