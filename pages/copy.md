@@ -156,8 +156,9 @@ to Dec 8 to 10; see [ui-kit.md](ui-kit.md) section 15 for moving dates).
   last line), long runs grouped (a list inside a sentence becomes a ticked list, the closing line joins its paragraph),
   new sections given their own designed visual, never a generic placeholder.
 
-- **A logo for a client's tool starts from the client's own mark** (Sean, Nov 10, three passes on Ana's Offer Flow: a generic
-  app-icon tile was "nope"; her own smiling sunflower as the O of "Offer" worked). Her fonts, her handwriting, her colours.
+- **A logo for a client's tool is its own illustration, in the client's style** (Sean, Nov 10, four passes on Ana's Offer
+  Flow: a generic app tile was "nope", her sunflower logo reused was "nope not from logo"; a painted idea bulb with four
+  coloured ideas worked). Her handwriting for her name, her colours, and say plainly what it is ("AI tool").
 
 ## 5. Emphasis: bold, highlights, the promise line
 
