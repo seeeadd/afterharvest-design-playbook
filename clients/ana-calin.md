@@ -9,6 +9,8 @@
   - **Dates:** Tue Dec 8 to Thu Dec 10, 2026.
   - **Time:** 12:00 pm New York (5:00 pm London, 7:00 pm Greece, 9:00 am Los Angeles).
   - **Length:** about 90 minutes a session.
+- **Her people:** mostly 30 to 50, busy, many with a job (Sean, Nov 9: "these peeps are 30-50s"). Big type, plain
+  words, one obvious action per step, nothing they have to hunt for.
 - **Ana:**
   - about 80,000 readers; $1.4M from workshops and programs; 0 sales calls; 16,907 buyers;
   - lives in a village in Greece, works about two hours a day;

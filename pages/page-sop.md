@@ -674,3 +674,20 @@ hero painting on screen about 1.1 s, full load about 1.9 s, layout shift 0, busy
   form; the day map over the Day 2 text; "Save your free seat" past the edge at 320px.
 - **Still to do (launch):** the square share picture; noindex off the registration page on launch day; the VIP
   footer's help address; what the registration page shows once the event has started (open question for Sean).
+
+## J9. Confirmation pages: make it easy to act (Sean, Nov 9)
+
+"The confirmation page is quite the most important": its job is to get them to do the steps that make them show up
+live. Do the work for them, so nothing feels manual or optional.
+
+- **Required steps look required.** A red "Required" gate that says what they get and what to do ("To get your
+  calculator, answer these 7 questions first"), a red required stamp, and a link in the sticky header ("get your
+  calculator") that scrolls there and lights the step up. The link turns into "open my calculator" once it is done.
+- **"Most important" is red, big, with an exclamation mark,** never a small pastel tag.
+- **Every button the same yellow** (no white "I did it" buttons); put a small painted picture of the thing beside it
+  (an envelope for "I moved it to my inbox").
+- **Mockups read as the real thing:** the chat in a real phone (status bar, island, pinned message, the group's own
+  wallpaper), messages that arrive, ticks that turn blue, a reaction.
+- **Tap for sound is big, in the middle of the video, with the sound moving,** so they know it is a video to press.
+- **The personal step (questions for Ana) shows Ana:** her photo, thinking, with what she will read.
+- **Arrows are drawn by hand** (a curve with a separate head, slight wobble, drawn on), never a stiff vector chevron.
