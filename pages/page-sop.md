@@ -702,3 +702,5 @@ live. Do the work for them, so nothing feels manual or optional.
 - **Surveys: every opinion question ends with "Something else" and a box for their own words** (Sean, Nov 9: "so we
   don't miss out on that"). No "optional": once they pick it, next waits for their words (they can still pick
   another answer). It reaches the sheet as "Something else: their words".
+- **Every form sends somewhere real, and says so honestly.** No "demo" mode that shows "Got it" without sending (Nov 10:
+  the VIP ready-check form did this). On failure keep their words and show an error they can retry.
