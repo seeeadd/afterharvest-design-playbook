@@ -97,5 +97,26 @@
 | `/program/` | The Exit Lab |
 | `/exit-number/` | calculator |
 
-The video slots are the `VSL_SRC` variables in the registration and VIP page scripts. They're empty (a still with a
-play button).
+## Videos
+
+- **Fresh chat about her videos?** Read `playbook/HANDOFF-video-chat.md` in `seeeadd/2026-ana-calin` first, then
+  `tools/film/VIDEO-KIT.md` there. Every message Sean sent in the video chats is in
+  `playbook/transcripts/video-chat-digest-2026-11-04_to_11-09.md`.
+- **Hosting:** both pages play from Wistia through `assets/wistia-vsl.js` (an 8 s silent preview loops, a press
+  restarts with sound). Registration desktop `995puecipz`, phone `z5mv5t5sf5`; VIP desktop `5j7jxvhlbz`, phone
+  `t0jit9k8nm`. Never commit video files.
+- **Registration video:** 1560x1008 and 1080x1920, 3:12, delivered at 1.25x (2:34). Coast, her studio and her desk room.
+  The sunflower is on screen throughout. The close is "LIVE on Zoom" with a hold.
+- **VIP video:** made with the kit (`tools/film/videos/vip/`), 1.2x (1:23). The sunflower wears a king crown. Sean redrew
+  the page door after it was published; a matching opening is rendered but not live.
+- **Her world for video:** the painted Greek bay (hills, white village with a blue dome, sea, a sailboat), her studio
+  (pink velvet chair, her pink and turquoise plant painting, a white cabinet with brushes, fluted oak wardrobes) and her
+  desk room (an oval travertine desk, ranunculus in ribbed glass, a leaning mirror). The bay as a clean picture is
+  `~/AnaVideo/out/ana-bay-area.png`, with a transparent-sky version alongside.
+- **Sound:** effects in `~/Downloads/ana calin sound effects/` (ship bells, small bell, door, wind chimes, ink stamp,
+  pen, kalimba, marimba, typewriter, key ring, run on wood, clock, mouse click, calm sea). Music: "Each Day Gets Better"
+  by John Legend at the opening and close only. Sean accepts the licence risk; the effects' licences are his to check.
+- **Audio cleaning:** Sean makes Adobe Enhance V2 (base) and V1 (word swaps). Her accent reads to speech-to-text as
+  "life" for "live", "roof" for "proof", "Kalin" for "Calin"; that isn't damage.
+- **Open:** she says "less than 300 people on her email list" while Jill's note says "300ish audience". Ask before
+  reusing that line.
