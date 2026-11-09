@@ -399,6 +399,9 @@ Full rules: [registration-page.md](registration-page.md) §23, [vip-page.md](vip
 
 When Sean says "simplify" a section or a page, remove things, don't only add space. Cut first: divider rules
 (eyebrow side lines, lines after numbers, double rules between bands), progress rails that repeat what the band
-already says, dashed frames and dashed list rules, doodles, labels and tags that repeat the heading, table column
-borders. Keep the copy and the painted scenes ("dont remove the graphics", Nov 8). A section keeps its own ground
+already says, dashed frames and dashed list rules, doodles, table column borders. Keep the copy and the painted
+scenes ("dont remove the graphics", Nov 8). Never hide words: labels, tags and small captions are copy (Nov 9,
+"did you change copy?" after a pass hid "Live VIP Q&A", "Free, for everyone" and the Nº labels). Sean wants each
+feature to say plainly what the buyer gets (a tag like "Private WhatsApp access", "Lifetime access"), so labels
+that name the deliverable stay even when the headline is clever. A section keeps its own ground
 colour when a page's accent changes (Nov 9: "keep it pink").
