@@ -9,6 +9,8 @@
   - **Dates:** Tue Dec 8 to Thu Dec 10, 2026.
   - **Time:** 12:00 pm New York (5:00 pm London, 7:00 pm Greece, 9:00 am Los Angeles).
   - **Length:** about 90 minutes a session.
+- **VIP deadline:** VIP closes when Day 2 ends, Wed Dec 9, 1:30 pm New York (Sean, Nov 9). It is real: the VIP page and the free
+  confirmation close themselves at that minute. Never show an earlier, fake deadline for urgency.
 - **Her people:** mostly 30 to 50, busy, many with a job (Sean, Nov 9: "these peeps are 30-50s"). Big type, plain
   words, one obvious action per step, nothing they have to hunt for.
 - **Ana:**
