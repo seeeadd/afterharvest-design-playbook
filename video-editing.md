@@ -158,6 +158,12 @@ after every video round.
   all its frames before joining.
 - **Web copy:** H.264, `-movflags +faststart`, about 30 MB for a 2 to 3 minute video (1200 wide desktop, 720 wide
   phone).
+- **Installed helpers (Nov 9, vetted, read before install):** the `rossark-motion-skill` skill (calm idle motion for the
+  character and scenes; project rules win over it) and the `video-director` skill, used only for its
+  `scripts/qa_video.py` (flashes, freezes, loudness, contact sheet) and `check_timeline.py`; `librosa` in
+  `~/LoomAutomation/.venv` for beat and onset points in a music bed. Skipped for now: earshot (pip plus model
+  downloads; revisit for audio review), take-one (read its watercolor style notes instead), huashu-motion, reanimate,
+  argo, explainroo.
 - **Checks before sending:** an OCR scan for dates on every second; her words against the captions; a contact sheet of
   both shapes for clipped pieces, hidden character, covered face and readability.
 
