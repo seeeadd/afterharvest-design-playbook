@@ -700,4 +700,5 @@ live. Do the work for them, so nothing feels manual or optional.
   one clear "yes" button, and one gentle line that the free days are complete on their own. Every line from the offer
   page's own table.
 - **Surveys: every opinion question ends with "Something else" and a box for their own words** (Sean, Nov 9: "so we
-  don't miss out on that"). Optional, never blocks; it reaches the sheet as "Something else: their words".
+  don't miss out on that"). No "optional": once they pick it, next waits for their words (they can still pick
+  another answer). It reaches the sheet as "Something else: their words".
