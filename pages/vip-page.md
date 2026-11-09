@@ -437,6 +437,7 @@ General copy rules are in `copy.md`. On the VIP page:
 
 ## 16. Look
 
+- **Nov 9, the VIP pattern interrupt:** the hero sits on its own colour so people feel they are on a different page from registration. For Ana: Greek shutter blue painted as the sea (large non-repeating gouache crests drifting slowly, soft streaks, glints under a warm white glow), calm water behind the headline, the headline in cream with sun-yellow italics, a whitewashed edge into the cream page. Pink is out except her signature; blue replaces it as the second colour on this page. Overrides live in `assets/vip-theme.css`, versioned by hash.
 - **Background:** flat, clean and calm (white or warm white). No grain over the whole page, nothing "cheeky". Sean:
   "I still don't really like how the background looks. It looks a little cheeky".
 - **Textures:** subtle, per section, made in code from Sean's references (never the references themselves, never
