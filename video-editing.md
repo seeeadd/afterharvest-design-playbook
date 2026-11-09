@@ -79,6 +79,10 @@ after every video round.
 - **Every object has a job or it comes out.** No props to fill space. No thin generic arrows: arrows are painted
   objects. No pink on pink. No decorative sparkles. Cut-out hands reach in from the frame edge.
 - No dates baked into the core video.
+- **Breathing room:** the viewer needs beats to digest. One lead piece per beat (the real piece plus at most its title);
+  captions already carry her words, so don't repeat them as stickers. Every 10 to 15 seconds leave a quiet stretch of a
+  few seconds: her, the caption and the character resting, nothing arriving. The character hops only on real moments
+  (Ana's VIP went from 19 hops to 9), and a sound goes with a piece, so cutting a piece cuts its sound.
 - No generic AI visuals ("AI changed the order" shows her real material, not a glowing brain).
 
 ## 6. Opening, closing, transitions
