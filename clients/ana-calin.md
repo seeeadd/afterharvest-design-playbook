@@ -31,6 +31,7 @@
   - the live group review;
   - the Offer Clarity Sprint.
 - **Program:** The Exit Lab.
+- **Headline (Nov 14):** "If I Wanted to 5x My Salary in 2027, Here’s the Newsletter Business I’d Build." under "My Newsletter Business Has Made $1.4M." No "earn" (Ana: shorter, direct); keep "to". Link preview, meta and og must match it.
 - **Ana’s Offer Flow** (free AI tool, linked from both confirmation pages): https://www.monetisesubstack.com/ana-ai-offer-flow (Sean, Nov 14).
 - **Site:** https://exitplan.howwegrowtoday.com · **repo:** seeeadd/2026-ana-calin · **work branch:**
   `claude/quirky-franklin-etidvi`.
