@@ -31,6 +31,7 @@
   - the live group review;
   - the Offer Clarity Sprint.
 - **Program:** The Exit Lab.
+- **Ana’s Offer Flow** (free AI tool, linked from both confirmation pages): https://www.monetisesubstack.com/ana-ai-offer-flow (Sean, Nov 14).
 - **Site:** https://exitplan.howwegrowtoday.com · **repo:** seeeadd/2026-ana-calin · **work branch:**
   `claude/quirky-franklin-etidvi`.
 
