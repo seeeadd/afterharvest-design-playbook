@@ -116,6 +116,9 @@
   The sunflower is on screen throughout. The close is "LIVE on Zoom" with a hold.
 - **VIP video:** made with the kit (`tools/film/videos/vip/`), 1.2x (1:23). The sunflower wears a king crown. Sean redrew
   the page door after it was published; a matching opening is rendered but not live.
+- **Confirmation video:** made with the kit (`tools/film/videos/confirm/`), 1.1x (1:08), Ana's default speed now. Real page
+  pieces as cut-outs, Sean's calendar (private bits blurred, New York times), WhatsApp and Gmail mockups, her live part in a
+  Zoom window. Delivered Nov 10 for Wistia.
 - **Her world for video:** the painted Greek bay (hills, white village with a blue dome, sea, a sailboat), her studio
   (pink velvet chair, her pink and turquoise plant painting, a white cabinet with brushes, fluted oak wardrobes) and her
   desk room (an oval travertine desk, ranunculus in ribbed glass, a leaning mirror). The bay as a clean picture is
