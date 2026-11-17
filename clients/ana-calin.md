@@ -31,6 +31,7 @@
   - the live group review;
   - the Offer Clarity Sprint.
 - **Program:** The Exit Lab.
+- **Kit account:** "Substackulous" (Ana’s). Nov 17 to 18: the card failed three times, Kit marked it unpaid and blocked the API, so every site call to Kit returned 401 (sign-ups, VIP tags, waitlist, survey, live counter). The Sheet kept every sign-up. If the Kit column shows 401, check Kit billing first.
 - **Headline (Nov 14, Ana’s last word):** "If I Wanted to 5x My Salary in 2027, Here’s What I’d Build First." under "My Newsletter Business Has Made $1.4M." (Ana: "this makes people curious"). No "earn"; keep "to". Link preview, meta and og must match it.
 - **Ana’s video stills:** she cares how she looks in the still. Pick a frame where she smiles with eyes open (phone stills: registration 152.5 s, VIP 29.0 s, confirmations 61.0 s), never the first frame by default.
 - **Ana’s Offer Flow** (free AI tool, linked from both confirmation pages): https://www.monetisesubstack.com/ana-ai-offer-flow (Sean, Nov 14).
